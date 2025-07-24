@@ -1,4 +1,3 @@
-package Ejercicio3;
 
 public class Espadachin extends Personaje {
     private int ataque;
