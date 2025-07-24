@@ -1,5 +1,3 @@
-package Ejercicio3;
-
 public class Mago extends Personaje {
     private String magia;
     public Mago(int salud, String magia) {
