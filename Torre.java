@@ -1,5 +1,3 @@
-package Ejercicio3;
-
 public class Torre extends Personaje {
     private int nivel;
     public Torre(int salud, int nivel) {
