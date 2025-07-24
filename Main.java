@@ -1,6 +1,3 @@
-import Ejercicio1.*;
-import Ejercicio3.*;
-
 import java.util.ArrayList;
 import java.util.List;
 
