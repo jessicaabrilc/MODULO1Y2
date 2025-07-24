@@ -1,4 +1,3 @@
-package Ejercicio3;
 
 public abstract class Personaje {
     protected int salud;
