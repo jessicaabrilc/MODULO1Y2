@@ -1,4 +1,4 @@
-package Ejercicio1;import java.util.Scanner;
+import java.util.Scanner;
 
 public class Calculadora {
     private double numero1;
